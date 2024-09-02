@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{4487C8E4-F14C-4F52-A408-B2D1F4EA5CF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods.TCPData", "ExtensionMethods.TCPData\ExtensionMethods.TCPData.csproj", "{72C657C2-3BCA-479C-B8A2-C143F3FE2695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods.TCPExtensions", "ExtensionMethods.TCPExtensions\ExtensionMethods.TCPExtensions.csproj", "{58F27EBB-0A32-4D77-B284-A8CCC026F315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4487C8E4-F14C-4F52-A408-B2D1F4EA5CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4487C8E4-F14C-4F52-A408-B2D1F4EA5CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4487C8E4-F14C-4F52-A408-B2D1F4EA5CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C657C2-3BCA-479C-B8A2-C143F3FE2695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C657C2-3BCA-479C-B8A2-C143F3FE2695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C657C2-3BCA-479C-B8A2-C143F3FE2695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C657C2-3BCA-479C-B8A2-C143F3FE2695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F27EBB-0A32-4D77-B284-A8CCC026F315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F27EBB-0A32-4D77-B284-A8CCC026F315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F27EBB-0A32-4D77-B284-A8CCC026F315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F27EBB-0A32-4D77-B284-A8CCC026F315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
