@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExtensionMethods.TCPData\ExtensionMethods.TCPData.csproj" />
+    <ProjectReference Include="..\ExtensionMethods.TCPExtensions\ExtensionMethods.TCPExtensions.csproj" />
+  </ItemGroup>
+
 </Project>

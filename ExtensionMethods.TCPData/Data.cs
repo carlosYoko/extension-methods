@@ -11,7 +11,7 @@
                 Id = 1,
                 FirstName = "John",
                 LastName = "Long",
-                AnnualSalary = 60000.3m,
+                AnnualSalary = 60000,
                 IsManager = true,
                 DepartmentId = 1,
             };
@@ -22,7 +22,7 @@
                 Id = 2,
                 FirstName = "Sara",
                 LastName = "Jameson",
-                AnnualSalary = 80000.1m,
+                AnnualSalary = 80000,
                 IsManager = true,
                 DepartmentId = 2,
             };
@@ -33,7 +33,7 @@
                 Id = 3,
                 FirstName = "Bob",
                 LastName = "Martin",
-                AnnualSalary = 40000.2m,
+                AnnualSalary = 40000,
                 IsManager = false,
                 DepartmentId = 2,
             };
@@ -44,7 +44,7 @@
                 Id = 4,
                 FirstName = "Faith",
                 LastName = "Evans",
-                AnnualSalary = 60000.3m,
+                AnnualSalary = 60000,
                 IsManager = false,
                 DepartmentId = 3,
             };
